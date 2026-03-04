@@ -35,13 +35,14 @@ Simulación realista de **LaLiga** con **20 equipos**, **38 jornadas** por tempo
   - **Scouting**: Priorizar perfiles ofensivos en equipos de ataque; defensivos en control.
 
 ## 📁 Estructura del repositorio
-
+```
 ├── 📁 input/
 │ ├── football_matches_dataset.csv # Dataset original (con nulos)
 │ └── football_matches_dataset_clean.csv # Dataset procesado
 ├── 📄 Actividad_M2_Analysis.ipynb # EDA, modelado y evaluación
 ├── 📄 Actividad Modulo 2.pdf # Informe completo
 └── 📄 README.md # Este archivo
+```
 
 ## 📚 Recursos y referencias
 - Inspiración datos: Sofascore
