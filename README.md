@@ -40,7 +40,7 @@ Simulación realista de **LaLiga** con **20 equipos**, **38 jornadas** por tempo
 │ ├── football_matches_dataset.csv # Dataset original (con nulos)
 │ └── football_matches_dataset_clean.csv # Dataset procesado
 ├── 📄 Actividad_M2_Analysis.ipynb # EDA, modelado y evaluación
-├── 📄 Actividad-Modulo-2.pdf # Informe completo
+├── 📄 Actividad Modulo 2.pdf # Informe completo
 └── 📄 README.md # Este archivo
 
 📚 Recursos y referencias
