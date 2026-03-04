@@ -5,6 +5,7 @@ Proyecto completo de análisis predictivo sobre datos ficticios de **760 partido
 
 [![LaLiga Predictive Analysis](https://img.shields.io/badge/Tech-Python%20%7C%20Pandas%20%7C%20Scikit--learn%20%7C%20Matplotlib-brightgreen)](https://www.python.org/)
 
+
 ## 📊 Resumen del Proyecto
 
 Simulación realista de **LaLiga** con **20 equipos**, **38 jornadas** por temporada y **44 features** por partido (goles, xG, tiros, posesión, duelos, disciplina, etc.). Dataset generado con IA para coherencia con datos reales (inspirado en Sofascore).
